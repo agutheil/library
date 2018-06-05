@@ -5,7 +5,7 @@
             "image": "%REPOSITORY_URI%:v_%BUILD_NUMBER%",
             "name": "library",
             "cpu": 10,
-            "memory": 1024,
+            "memory": 256,
             "essential": true,
             "portMappings": [
                 {
