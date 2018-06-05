@@ -23,7 +23,7 @@ public class BookService {
     public BookService() {
         Book book = new Book();
         book.setId(getNextId());
-        book.setName("Continuous Delivery with Jenkins, GitHub, Docker and AWS ");
+        book.setName("Continuous Delivery with Jenkins, GitHub, Docker, AWS and stuff ");
         book.setIsbn("1");
         book.setAuthor("fyayc");
         book.setPages(420);
